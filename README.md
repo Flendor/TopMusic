@@ -1,2 +1,2 @@
 # TopMusic
-TopMusic is a client/server application which is focused on music. Clients will have an account, and will listen to the music that can be found in the application. They can vote the songs, comment, add new music. There are also admins, which will try to keep the application clean.
+TopMusic is a client/server application which is focused on music. Clients will have an account, and will listen to the music that can be found on the application. They can vote the songs, comment, add new music. There are also admins, which will try to keep the application clean. The server is TCP concurrent. TopMusic doesn't have a graphical interface yet, but I am planning to do that in the future.
