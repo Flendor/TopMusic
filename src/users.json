@@ -1,0 +1,67 @@
+{
+  "andrei": {
+    "password": "halauca",
+    "restrictionat": "nu",
+    "tipUser": "regular"
+  },
+  "beluc": {
+    "password": "asii",
+    "restrictionat": "da",
+    "tipUser": "regular"
+  },
+  "chd": {
+    "password": "123",
+    "restrictionat": "nu",
+    "tipUser": "admin"
+  },
+  "costi": {
+    "password": "celmaismecher",
+    "restrictionat": "nu",
+    "tipUser": "regular"
+  },
+  "damian": {
+    "password": "rlforlife",
+    "restrictionat": "nu",
+    "tipUser": "regular"
+  },
+  "irina": {
+    "password": "imiplaccerealele",
+    "restrictionat": "nu",
+    "tipUser": "regular"
+  },
+  "lipan": {
+    "password": "olimpiada",
+    "restrictionat": "nu",
+    "tipUser": "admin"
+  },
+  "main-core": {
+    "password": "best",
+    "restrictionat": "nu",
+    "tipUser": "admin"
+  },
+  "matei": {
+    "password": "lemn123",
+    "restrictionat": "nu",
+    "tipUser": "admin"
+  },
+  "mihnea": {
+    "password": "Rastrigin977",
+    "restrictionat": "nu",
+    "tipUser": "regular"
+  },
+  "mihneaa": {
+    "password": "mihnea@",
+    "restrictionat": "nu",
+    "tipUser": "regular"
+  },
+  "octavian": {
+    "password": "suntbun",
+    "restrictionat": "nu",
+    "tipUser": "regular"
+  },
+  "petru": {
+    "password": "xwiki",
+    "restrictionat": "nu",
+    "tipUser": "admin"
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "1": {
+    "artist": "Tenacious D",
+    "comments": {
+      "1": {
+        "content": "jmek",
+        "user": "andrei"
+      },
+      "2": {
+        "content": "De ce nu are mai multe voturi?",
+        "user": "costi"
+      },
+      "3": {
+        "content": "Amazing song!",
+        "user": "matei"
+      },
+      "4": {
+        "content": "yupiiii",
+        "user": "mihnea"
+      },
+      "5": {
+        "content": "",
+        "user": "mihneaa"
+      },
+      "6": {
+        "content": "Am dansat pe asta!",
+        "user": "petru"
+      },
+      "7": {
+        "content": "cei mai buni pe acustica",
+        "user": "petru"
+      }
+    },
+    "description": "Our heroes, JB and KG, sing about a couple of frustrating events from world history.",
+    "genres": {
+      "1": "Rock",
+      "2": "Folk"
+    },
+    "link": "https://www.youtube.com/watch?v=_wk0okBVI80",
+    "name": "Throw Down",
+    "nrVotes": "7",
+    "proposedBy": "matei",
+    "whoVoted": {
+      "1": {
+        "review": "up",
+        "user": "andrei"
+      },
+      "2": {
+        "review": "up",
+        "user": "lipan"
+      },
+      "3": {
+        "review": "up",
+        "user": "matei"
+      },
+      "4": {
+        "review": "up",
+        "user": "mihnea"
+      },
+      "5": {
+        "review": "up",
+        "user": "mihneaa"
+      },
+      "6": {
+        "review": "up",
+        "user": "octavian"
+      },
+      "7": {
+        "review": "up",
+        "user": "petru"
+      }
+    }
+  },
+  "2": {
+    "artist": "Avantasia",
+    "comments": {
+      "1": {
+        "content": "test",
+        "user": "matei"
+      },
+      "2": {
+        "content": "alt test",
+        "user": "matei"
+      },
+      "3": {
+        "content": "Pretty mellow.",
+        "user": "petru"
+      }
+    },
+    "description": "Composed by Tobias Sammet, this song is the single of the 7th album of the project Avantasia.",
+    "genres": {
+      "1": "Symphonic-Metal",
+      "2": "Power-Metal",
+      "3": "Rock"
+    },
+    "link": "https://www.youtube.com/watch?v=PjRq72ZBZxs",
+    "name": "Mistery of a blood red rose",
+    "nrVotes": "4",
+    "proposedBy": "matei",
+    "whoVoted": {
+      "1": {
+        "review": "up",
+        "user": "matei"
+      },
+      "2": {
+        "review": "up",
+        "user": "mihnea"
+      },
+      "3": {
+        "review": "up",
+        "user": "octavian"
+      },
+      "4": {
+        "review": "up",
+        "user": "petru"
+      }
+    }
+  },
+  "3": {
+    "artist": "Maurice Ravel",
+    "comments": {
+      "1": {
+        "content": "imi place",
+        "user": "petru"
+      }
+    },
+    "description": "O melodie veche, apreciata pana si in ziua de azi.",
+    "genres": {
+      "1": "Classical-Music",
+      "2": "Opera"
+    },
+    "link": "https://www.youtube.com/watch?v=r30D3SW4OVw",
+    "name": "Bolero",
+    "nrVotes": "3",
+    "proposedBy": "matei",
+    "whoVoted": {
+      "1": {
+        "review": "up",
+        "user": "lipan"
+      },
+      "2": {
+        "review": "up",
+        "user": "matei"
+      },
+      "3": {
+        "review": "up",
+        "user": "petru"
+      }
+    }
+  },
+  "4": {
+    "artist": "Big Time Rush",
+    "comments": {
+      "1": {
+        "content": "Best",
+        "user": "costi"
+      },
+      "2": {
+        "content": "e ok",
+        "user": "damian"
+      },
+      "3": {
+        "content": "Vad ca apreciati aceasta melodie",
+        "user": "damian"
+      }
+    },
+    "description": "Windows Down is a song by American band Big Time Rush from the re-release of their second studio album Elevate.",
+    "genres": {
+      "1": "Pop"
+    },
+    "link": "https://www.youtube.com/watch?v=Z_Al0GXbCm8",
+    "name": "Windows Down",
+    "nrVotes": "2",
+    "proposedBy": "matei",
+    "whoVoted": {
+      "1": {
+        "review": "up",
+        "user": "matei"
+      },
+      "2": {
+        "review": "up",
+        "user": "mihnea"
+      }
+    }
+  },
+  "5": {
+    "artist": "Snoop Dogg",
+    "comments": {
+      "1": {
+        "content": "mihnea",
+        "user": "mihneaa"
+      },
+      "2": {
+        "content": "hip-hop de calitate, nu ca gucci gang din zilele noastre...",
+        "user": "petru"
+      }
+    },
+    "description": "Laid back, with my mind on my money and my money on my mind...",
+    "genres": {
+      "1": "Hip-hop",
+      "2": "rap"
+    },
+    "link": "https://www.youtube.com/watch?v=DI3yXg-sX5c",
+    "name": "Gin & Juice",
+    "nrVotes": "1",
+    "proposedBy": "costi",
+    "whoVoted": {
+      "1": {
+        "review": "up",
+        "user": "andrei"
+      },
+      "2": {
+        "review": "down",
+        "user": "chd"
+      },
+      "3": {
+        "review": "up",
+        "user": "costi"
+      },
+      "4": {
+        "review": "down",
+        "user": "mihnea"
+      },
+      "5": {
+        "review": "up",
+        "user": "octavian"
+      }
+    }
+  },
+  "6": {
+    "artist": "Skrillex & Damian Marley",
+    "comments": {
+      "1": {
+        "content": "merge",
+        "user": "andrei"
+      },
+      "2": {
+        "content": "salut",
+        "user": "andrei"
+      },
+      "3": {
+        "content": " mie imi place",
+        "user": "octavian"
+      }
+    },
+    "description": "Just play FarCry 3",
+    "genres": {
+      "1": "Dubstep",
+      "2": "Pop"
+    },
+    "link": "https://www.youtube.com/watch?v=BGpzGu9Yp6Y",
+    "name": "Make it Bun Dem",
+    "nrVotes": "-1",
+    "proposedBy": "petru",
+    "whoVoted": {
+      "1": {
+        "review": "down",
+        "user": "andrei"
+      },
+      "2": {
+        "review": "up",
+        "user": "beluc"
+      },
+      "3": {
+        "review": "down",
+        "user": "octavian"
+      }
+    }
+  }
+}
